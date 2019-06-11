@@ -1,0 +1,2 @@
+当初在by，同事给了两个http的demo，自己只用了了h_http_client的那个,这个httpsimpleconnect的demo
+没有用到，但是也上传到github备份下。
